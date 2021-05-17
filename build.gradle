@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+}
+
+group 'io.blindnet.blindnet'
+version '0.0.1'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation group: 'org.bouncycastle', name: 'bcprov-jdk15on', version: '1.68'
+    implementation group: 'org.json', name: 'json', version: '20210307'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+}
+
+test {
+    useJUnitPlatform()
+}
