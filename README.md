@@ -1,13 +1,13 @@
 <h1 align="center">
   blindnet devkit<br />
-  Java SDK
+  Java Server SDK
 </h1>
 
 <p align=center><img src="https://user-images.githubusercontent.com/7578400/163277439-edd00509-1d1b-4565-a0d3-49057ebeb92a.png#gh-light-mode-only" height="80" /></p>
 <p align=center><img src="https://user-images.githubusercontent.com/7578400/163549893-117bbd70-b81a-47fd-8e1f-844911e48d68.png#gh-dark-mode-only" height="80" /></p>
 
 <p align="center">
-  <strong>Java SDK for authentication tokens generation and user management</strong>
+  <strong>Java Server SDK for authentication tokens generation and user management</strong>
 </p>
 
 <p align="center">
