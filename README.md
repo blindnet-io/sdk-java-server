@@ -35,15 +35,6 @@ This is the Java [server-side SDK](https://blindnet.dev/docs/references/glossary
 
 :rocket: Check out our [Quick Start Guide](https://blindnet.dev/docs/encryption/quickstart) to get started in a snap.
 
-## Installation
-
-<!-- FIXME: add install steps -->
-Use [{package manager or plateform}][install-tool] to install {project's name}:
-
-```bash
-{install-command}
-```
-
 ## Contributing
 
 Contributions of all kinds are always welcome!
